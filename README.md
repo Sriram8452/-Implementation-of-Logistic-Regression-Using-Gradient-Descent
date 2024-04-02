@@ -27,8 +27,9 @@ RegisterNumber:  212222230149
 ```
 
 
+
 ## Output:
-![logistic regression using gradient descent](sam.png)
+
 
 
 ## Result:
