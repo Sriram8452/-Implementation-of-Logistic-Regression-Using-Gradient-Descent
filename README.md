@@ -119,7 +119,6 @@ print(y_prednew)
 
 ### y_pred:
 ![image](https://github.com/Sriram8452/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118708032/65196d4d-d220-4dee-8fe4-798bbb9ebd7c)
-![image](https://github.com/Sriram8452/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118708032/41e9cc21-fd0f-4d47-8e50-37ed8fb6a27f)
 
 
 ## Result:
